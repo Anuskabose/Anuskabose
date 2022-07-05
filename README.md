@@ -1,12 +1,2 @@
   ![Screenshot 2022-07-05 115734](https://user-images.githubusercontent.com/98277928/177263879-0448ce65-261a-4334-ac49-592c484168ed.jpg)
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>Animated Image</title>
-   </head>
-   <body>
-      <h1>Animated Image</h1>
-      <img src="https://gifyu.com/image/Zy2f">
-   </body>
-</html>
- 
+<div class="tenor-gif-embed" data-postid="14700452" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/handshake-transcol-hold-hands-gif-14700452">Handshake Transcol Sticker</a>from <a href="https://tenor.com/search/handshake-stickers">Handshake Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
