@@ -1,2 +1,2 @@
   ![Screenshot 2022-07-05 115734](https://user-images.githubusercontent.com/98277928/177263879-0448ce65-261a-4334-ac49-592c484168ed.jpg)
-<div class="tenor-gif-embed" data-postid="14700452" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/handshake-transcol-hold-hands-gif-14700452">Handshake Transcol Sticker</a>from <a href="https://tenor.com/search/handshake-stickers">Handshake Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![handshake-transcol](https://user-images.githubusercontent.com/98277928/177265620-03b18bd7-326c-4d8a-b260-809c3dc57952.gif)
