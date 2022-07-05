@@ -1,4 +1,4 @@
-  ![Screenshot 2022-07-05 115734](https://user-images.githubusercontent.com/98277928/177263879-0448ce65-261a-4334-ac49-592c484168ed.jpg)
+  ![image](https://user-images.githubusercontent.com/98277928/177267454-b720e287-1b22-48f3-a30d-d55ca265abaa.png)
  <h1 align="center">Hi 👋, I'm Anuska Bose</h1>
 <h3 align="center">I am a 2nd year Btech Student pursuing CSE with specialization in IoT</h3>
 
