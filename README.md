@@ -1,2 +1,2 @@
-# Anuska kfusytdfohi]ik]
-k;hgdtstyi7;typ9i]-
+Hi there 👋 I'm Anuska Bose!
+🎓 I'm currently pursuing BTech in  CSE with specialization in IoT at Vellore Institute of Technology.
