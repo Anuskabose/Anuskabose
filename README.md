@@ -1,4 +1,4 @@
-
+<img align="center" alt="Anuska Bose | Overview" width="100%" src="https://github.com/AnuskaBose/Overview/blob/master/Pink%20Cyber%20Monday%20Sale%20Announcement%20Email%20Header.png" />
 <h1 align="center">Hi 👋, I'm Anuska Bose</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
