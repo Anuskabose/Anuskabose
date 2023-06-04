@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anuska Bose</h1>
 <h3 align="center">Frontend Web Developer</h3>
+<img align="right"alt="Coding" width="400" src="https://www.freepik.com/free-vector/flat-design-woman-programmer-coding_5359376.htm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuskabose&label=Profile%20views&color=0e75b6&style=flat" alt="anuskabose" /> </p>
 
