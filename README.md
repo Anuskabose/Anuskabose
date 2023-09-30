@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi myself Anuska Bose currently pursuing Btech in CSE with specialization in IoT from VIT VELLORE.I'm here on GitHub to share my work with the community and to collaborate with others on open source projects
+Hi there! I'm Anuska Bose, a passionate Computer Science and Engineering undergraduate student specializing in the exciting field of Internet of Things (IoT) at VIT Vellore.<br><br>🌟 My journey in technology is driven by curiosity and a thirst for innovation. I am constantly exploring the intersection of software and hardware to create meaningful solutions for real-world problems.<br><br>🚀 My areas of interest include IoT,and software development. I love to tinker with hardware, write elegant code, and leverage data to build intelligent systems that make a difference.<br><br>📚 Currently, I'm honing my skills through coursework, personal projects.I believe that learning is a lifelong adventure, and I'm excited to see where this journey takes me.<br><br>🌐 Let's connect and collaborate on exciting projects or share knowledge about the fascinating world of technology. Feel free to reach out, and let's make the digital world a better place together! 🤝
 
 
 ## 🌐 Socials:
@@ -12,11 +12,8 @@ Hi myself Anuska Bose currently pursuing Btech in CSE with specialization in IoT
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anuskabose&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anuskabose&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Anuskabose&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Anuskabose&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Anuskabose&icon=0&color=0)](https://visitcount.itsvg.in)
